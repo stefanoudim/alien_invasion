@@ -1,2 +1,2 @@
 # alien_invasion
-A nice arcade game I made
+An arcade-like game I made
